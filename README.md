@@ -59,12 +59,12 @@ The system includes:
    git clone https://github.com/yourusername/sensor-web-project.git
    cd sensor-web-project
 
-## Usage 
+## usage 
   - Enter Latitude and Longitude: The application fetches satellite images and weather data for the specified coordinates.
   - Generate Sensor Data: Simulates a set of sensor readings.
   - Anomaly Detection: Analyzes the generated sensor data and identifies anomalies.
 
-##Configuration
+## Configuration
   - Ensure your environment is properly set up with the required API keys.
   - Adjust parameters like sensor data count or plotting dimensions if needed.
 
