@@ -68,7 +68,7 @@ The system includes:
   - Ensure your environment is properly set up with the required API keys.
   - Adjust parameters like sensor data count or plotting dimensions if needed.
 
-## Project Structure
+- Project Structure
 -sensor-web-project
 - main.py                Main entry point of the application.
 - requirements.txt       List of dependencies.
